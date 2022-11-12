@@ -6,4 +6,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-
+#comment for checking the commit
+if 1 == 1:
+    pass
