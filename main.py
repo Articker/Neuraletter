@@ -7,5 +7,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 #comment for checking the commit
-if 1 == 1:
+if 1 == 2:
     pass
